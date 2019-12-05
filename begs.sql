@@ -38,7 +38,7 @@ CREATE TABLE IF NOT EXISTS `admin_record` (
 --
 
 INSERT INTO `admin_record` (`sno`, `username`, `password`) VALUES
-(1, 'graturi1', '1525'),
+(1, 'tanujvyas10', '1525'),
 (2, 'dheeru', '1224');
 
 -- --------------------------------------------------------
