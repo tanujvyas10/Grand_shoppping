@@ -1,0 +1,39 @@
+#table
+{
+border-collapse:collapse;
+border:1px solid #ccc;
+padding:30px;
+background-color:#f5e7d0;
+width:30%;
+margin:50px auto;
+box-shadow:25px 2px 20px #AE8C77;
+}
+#td
+{
+font-size:16px;
+padding:10px 15px;
+}
+#a
+{
+text-decoration:none;
+}
+.h3
+{
+color:#333;
+font-weight:bold;
+}
+.textbox
+{
+width:250px;
+height:26px;
+border-color:1px solid #ccc;
+float:right;
+}
+#button
+{
+width:100px;
+height:30px;
+font-size:14px;
+padding:5px;
+text-align:center;
+}
